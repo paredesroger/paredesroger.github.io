@@ -1,5 +1,3 @@
-Roger L. Paredes, M.S.
-======================
 <img src="images/cropped.jpg" width="200">
 
 Roger is a Ph.D. candidate in the Department of Civil and Environmental Engineering at Rice University.
