@@ -13,8 +13,8 @@ His research interests include:
 Education
 ----------
 * Ph.D. Candidate in Civil and Environmental Engineering, Rice University. 2015-Present.
-* M.S. in Civil Engineering, Polytechnic University of Turin. 2012-2014.
-* B.S. in Civil Engineering, Central University of Venezuela. 2007-2012 
+* M.Sc. in Civil Engineering, Polytechnic University of Turin. 2012-2014.
+* B.Sc. in Civil Engineering, Central University of Venezuela. 2007-2012 
 
 Journal papers
 --------------
