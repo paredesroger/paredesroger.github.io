@@ -28,7 +28,7 @@ Conference papers
 
 * Duenas-Osorio, L., Meel, K. S., **Paredes, R.**, & Vardi, M. Y. (2017). Counting-based reliability estimation for power-transmission grids. In AAAI (pp. 4488–4494). San Francisco. [[BibTex](bibs/DMPV17.bib)]
 
-* Paredes, R., & Duenas-Osorio, L. (2017). Risk Assessment of Interdependent Lifeline Systems (RAILS) and Systemic Importance Measures Using a Non-Simulation Method. In Safety, Reliability, Risk and Life-Cycle Performance of Structures and Infrastructures - Proceedings of the 12th International Conference on Structural Safety and Reliability, ICOSSAR 2017. Vienna, Austria. [[BibTex](bibs/PD17.bib)]
+* **Paredes, R.**, & Duenas-Osorio, L. (2017). Risk Assessment of Interdependent Lifeline Systems (RAILS) and Systemic Importance Measures Using a Non-Simulation Method. In Safety, Reliability, Risk and Life-Cycle Performance of Structures and Infrastructures - Proceedings of the 12th International Conference on Structural Safety and Reliability, ICOSSAR 2017. Vienna, Austria. [[BibTex](bibs/PD17.bib)]
 
 * **Paredes, R.**, & Dueñas-Osorio, L. (2015). A Time-Dependent Seismic Resilience Analysis Approach for Networked Lifelines. In Proceedings of the 12th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP12). Vancouver, Canada. [[DOI](https://doi.org/10.14288/1.0076219), [BibTex](bibs/PD15.bib)]
 
