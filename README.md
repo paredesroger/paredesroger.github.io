@@ -1,6 +1,6 @@
-Roger is a Ph.D. candidate in the Department of Civil and Environmental Engineering at Rice University.
+I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at Rice University.
 
-His research interests include:
+Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group and my research interests include:
 
 * Structural reliability.
 * System reliability and resilience.
@@ -10,9 +10,9 @@ His research interests include:
 
 Education
 ----------
-* Ph.D. Candidate in Civil and Environmental Engineering, Rice University. 2015-Present.
-* M.S. in Civil Engineering, Polytechnic University of Turin. 2012-2014.
-* B.S. in Civil Engineering, Central University of Venezuela. 2007-2012 
+* Ph.D. Candidate in Civil and Environmental Engineering, [Rice University](https://www.rice.edu/). 2015-Present.
+* M.S. in Civil Engineering, [Polytechnic University of Turin](https://www.polito.it/?lang=en). 2012-2014.
+* B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012 
 
 Journal papers
 --------------
