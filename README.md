@@ -17,7 +17,7 @@ Education
 Journal papers
 --------------
 
-* **Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019). Principled network reliability approximation: A counting-based approach. Reliability Engineering & System Safety, 191, 106472. [[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [BibTex](bibs/PMDV19.bib), [code](https://github.com/meelgroup/RelNet)] 
+* **Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019). Principled network reliability approximation: A counting-based approach. Reliability Engineering & System Safety, 191, 106472. [[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [BibTex](bibs/PMDV19.bib), [CODE](https://github.com/meelgroup/RelNet)] 
 
 * **Paredes, R.**, Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018). Decomposition algorithms for system reliability estimation with applications to interdependent lifeline networks. Earthquake Engineering & Structural Dynamics, 47(13), 2581–2600. [[DOI](https://doi.org/10.1002/eqe.3071), [BibTex](bibs/PDH18.bib)]
 
