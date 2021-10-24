@@ -34,6 +34,11 @@ Conference papers
 
 * **Paredes, R.**, & Dueñas-Osorio, L. (2015). A Time-Dependent Seismic Resilience Analysis Approach for Networked Lifelines. In Proceedings of the 12th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP12). Vancouver, Canada. [[DOI](https://doi.org/10.14288/1.0076219), [BibTex](bibs/PD15.bib)]
 
+Talks
+-----
+
+* **Paredes, R.**, Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. INFORMS 2021. Quantum-based and Inspired Methods to Compute Network Systems Reliability. [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
+
 Research profiles
 -----------------
 
