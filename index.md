@@ -4,11 +4,10 @@ I am a Ph.D. candidate in the Department of Civil and Environmental Engineering 
 
 Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group and my research interests include:
 
-* Resilience of infrastructure networks
-* Structural and system reliability
-* Risk and uncertainty quantification
-* Rare-event sampling and estimation
-* Earthquake engineering
+* Structural and Infrastructure Reliability
+* Uncertainty quantification
+* Resilience engineering
+* Earthquake engineering and natural hazards
 
 Education
 ----------
