@@ -13,7 +13,7 @@ Education
 ----------
 * Ph.D. Candidate in Civil and Environmental Engineering, [Rice University](https://www.rice.edu/). 2015-Present.
 * M.S. in Civil Engineering, [Polytechnic University of Turin](https://www.polito.it/?lang=en). 2012-2014.
-* B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012 
+* B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012.
 
 Journal papers
 --------------
