@@ -6,8 +6,9 @@ Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) rese
 
 * Structural and Infrastructure Reliability
 * Uncertainty quantification
+* Earthquake engineering and Natural hazards
 * Resilience engineering
-* Earthquake engineering and natural hazards
+
 
 Education
 ----------
