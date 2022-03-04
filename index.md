@@ -35,6 +35,12 @@ Conference papers
 
 * **Paredes, R.**, & Dueñas-Osorio, L. (2015). A Time-Dependent Seismic Resilience Analysis Approach for Networked Lifelines. In Proceedings of the 12th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP12). Vancouver, Canada. [[DOI](https://doi.org/10.14288/1.0076219), [BibTex](bibs/PD15.bib)]
 
+Other publications
+------------------
+
+* Sundar, B., **Paredes, R.**, Damanik, D. T., Dueñas-Osorio, L. & Hazzard, K. R. A. A quantum algorithm to count weighted ground states of classical spin Hamiltonians. [arXiv:1908.01745](https://arxiv.org/abs/1908.01745) (2019).
+
+
 Talks
 -----
 
