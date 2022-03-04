@@ -25,6 +25,8 @@ Journal papers
 Conference papers
 -----------------
 
+*  Birchfield, A. B., Patil, J., **Paredes, R.** & Duenas-Osorio, L. Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids. In Proceedings of the 2021 IEEE Power and Energy Conference at Illinois (PECI) 1–6 (IEEE, 2021). [[DOI](https://doi.org/10.1109/PECI51586.2021.9435202), [BibTex](bibs/BPPD21.bib)]
+
 * **Paredes, R.**, Dueñas-osorio, L., Meel, K. S., & Vardi, M. Y. (2019). A Weighted Model Counting Approach for Critical Infrastructure Reliability. In 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13). Seoul, South Korea. [[DOI](https://doi.org/10.22725/ICASP13.383), [BibTex](bibs/PMDV19b.bib)]
 
 * Duenas-Osorio, L., Meel, K. S., **Paredes, R.**, & Vardi, M. Y. (2017). Counting-based reliability estimation for power-transmission grids. In AAAI (pp. 4488–4494). San Francisco. [[BibTex](bibs/DMPV17.bib)]
