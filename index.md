@@ -48,7 +48,7 @@ Other publications
 Talks
 -----
 
-* **Paredes, R.**, Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. INFORMS 2021. Quantum-based and Inspired Methods to Compute Network Systems Reliability. [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
+* **Paredes, R.**, Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. INFORMS 2021. Quantum-based and Inspired Methods to Compute Network Reliability. [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
 
 Research profiles
 -----------------
