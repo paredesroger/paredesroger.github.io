@@ -24,7 +24,7 @@ Journal papers
 
 Under review
 ------------
-* **Paredes R.**, Talebiyan H., &  L. Dueñas-Osorio, Path-dependent reliability and resiliency of critical infrastructure via particle integration methods, Subbmitted to the 13th International Conference on Structural Safety & Reliability (ICOSSAR 2021-2022), (Shanghai, China), 2022.
+* **Paredes R.**, Talebiyan H., &  L. Dueñas-Osorio, Path-dependent reliability and resiliency of critical infrastructure via particle integration methods, Subbmited to the 13th International Conference on Structural Safety & Reliability (ICOSSAR 2021-2022), (Shanghai, China), 2022.
 
 Conference papers
 -----------------
