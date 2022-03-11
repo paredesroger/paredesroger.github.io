@@ -22,10 +22,6 @@ Journal papers
 
 * **Paredes, R.**, Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018). Decomposition algorithms for system reliability estimation with applications to interdependent lifeline networks. Earthquake Engineering & Structural Dynamics, 47(13), 2581–2600. [[DOI](https://doi.org/10.1002/eqe.3071), [BibTex](bibs/PDH18.bib)]
 
-Under review
-------------
-* **Paredes R.**, Talebiyan H., &  L. Dueñas-Osorio, Path-dependent reliability and resiliency of critical infrastructure via particle integration methods, Submitted to the 13th International Conference on Structural Safety & Reliability (ICOSSAR 2021-2022), (Shanghai, China), 2022.
-
 Conference papers
 -----------------
 
