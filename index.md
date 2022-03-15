@@ -1,4 +1,4 @@
-<img src="images/cropped.jpg" width="200">
+<img src="images/FE22E8E7-5EA8-4F74-A783-DEBA5EF0B969_1_201_a.jpeg" width="200">
 
 I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at Rice University.
 
