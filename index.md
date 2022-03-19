@@ -52,5 +52,11 @@ Research profiles
 -----------------
 
 * [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
-* [arXiv](http://arxiv.org/a/paredes_r_1)
+* [ArXiv](http://arxiv.org/a/paredes_r_1)
 * [ResearchGate](https://www.researchgate.net/profile/Roger_Paredes2)
+
+Elsewhere
+---------
+* [LinkedIn](https://www.linkedin.com/in/paredesroger/)
+* [Twitter](https://twitter.com/paredesrogerl)
+* [GitHub](https://github.com/paredesroger)
