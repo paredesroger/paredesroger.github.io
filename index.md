@@ -34,6 +34,7 @@ Conference papers
 * **Paredes, R.**, & Duenas-Osorio, L. (2017). Risk Assessment of Interdependent Lifeline Systems (RAILS) and Systemic Importance Measures Using a Non-Simulation Method. In Safety, Reliability, Risk and Life-Cycle Performance of Structures and Infrastructures - Proceedings of the 12th International Conference on Structural Safety and Reliability, ICOSSAR 2017. Vienna, Austria. [[Bib](bibs/PD17.bib), [PDF](Papers/PD17.pdf)]
 
 * **Paredes, R.**, & Dueñas-Osorio, L. (2015). A Time-Dependent Seismic Resilience Analysis Approach for Networked Lifelines. In Proceedings of the 12th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP12). Vancouver, Canada. [[DOI](https://doi.org/10.14288/1.0076219), [Bib](bibs/PD15.bib), [PDF](Papers/PD15.pdf)]
+
 * **Paredes, R.**, Dueñas-Osorio, L., & Cimellaro, G. P. (2014). Uncovering the heterogeneity of spatial lifeline system interdependencies. Proceedings of the 10th National Conference in Earthquake Engineering. [[Bib](bibs/PDC14.bib),[PDF](Papers/PDC14.pdf)]
 
 Other publications
