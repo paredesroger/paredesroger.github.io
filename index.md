@@ -18,14 +18,14 @@ Education
 Journal papers
 --------------
 
-* **Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019). Principled network reliability approximation: A counting-based approach. Reliability Engineering & System Safety, 191, 106472. [[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [BibTex](bibs/PMDV19.bib), [Code](https://github.com/meelgroup/RelNet)] 
+* **Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019). Principled network reliability approximation: A counting-based approach. Reliability Engineering & System Safety, 191, 106472. [[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [Bib](bibs/PMDV19.bib), [Code](https://github.com/meelgroup/RelNet)] 
 
-* **Paredes, R.**, Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018). Decomposition algorithms for system reliability estimation with applications to interdependent lifeline networks. Earthquake Engineering & Structural Dynamics, 47(13), 2581–2600. [[DOI](https://doi.org/10.1002/eqe.3071), [BibTex](bibs/PDH18.bib)]
+* **Paredes, R.**, Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018). Decomposition algorithms for system reliability estimation with applications to interdependent lifeline networks. Earthquake Engineering & Structural Dynamics, 47(13), 2581–2600. [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](bibs/PDH18.bib)]
 
 Conference papers
 -----------------
 
-*  Birchfield, A. B., Patil, J., **Paredes, R.** & Duenas-Osorio, L. Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids. In Proceedings of the 2021 IEEE Power and Energy Conference at Illinois (PECI) 1–6 (IEEE, 2021). [[DOI](https://doi.org/10.1109/PECI51586.2021.9435202), [BibTex](bibs/BPPD21.bib)]
+*  Birchfield, A. B., Patil, J., **Paredes, R.** & Duenas-Osorio, L. Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids. In Proceedings of the 2021 IEEE Power and Energy Conference at Illinois (PECI) 1–6 (IEEE, 2021). [[DOI](https://doi.org/10.1109/PECI51586.2021.9435202), [Bib](bibs/BPPD21.bib)]
 
 * **Paredes, R.**, Dueñas-osorio, L., Meel, K. S., & Vardi, M. Y. (2019). A Weighted Model Counting Approach for Critical Infrastructure Reliability. In 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13). Seoul, South Korea. [[DOI](https://doi.org/10.22725/ICASP13.383), [Bib](bibs/PMDV19b.bib)]
 
