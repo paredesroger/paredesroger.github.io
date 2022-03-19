@@ -29,7 +29,7 @@ Conference papers
 
 * **Paredes, R.**, Dueñas-osorio, L., Meel, K. S., & Vardi, M. Y. (2019). A Weighted Model Counting Approach for Critical Infrastructure Reliability. In 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13). Seoul, South Korea. [[DOI](https://doi.org/10.22725/ICASP13.383), [Bib](bibs/PMDV19b.bib)]
 
-* Duenas-Osorio, L., Meel, K. S., **Paredes, R.**, & Vardi, M. Y. (2017). Counting-based reliability estimation for power-transmission grids. In AAAI (pp. 4488–4494). San Francisco. [[URL](https://ojs.aaai.org/index.php/AAAI/article/view/11178),[Bib](bibs/DMPV17.bib)]
+* Duenas-Osorio, L., Meel, K. S., **Paredes, R.**, & Vardi, M. Y. (2017). Counting-based reliability estimation for power-transmission grids. In Proceedings of the AAAI Conference on Artificial Intelligence (pp. 4488–4494). San Francisco. [[URL](https://ojs.aaai.org/index.php/AAAI/article/view/11178),[Bib](bibs/DMPV17.bib)]
 
 * **Paredes, R.**, & Duenas-Osorio, L. (2017). Risk Assessment of Interdependent Lifeline Systems (RAILS) and Systemic Importance Measures Using a Non-Simulation Method. In Safety, Reliability, Risk and Life-Cycle Performance of Structures and Infrastructures - Proceedings of the 12th International Conference on Structural Safety and Reliability, ICOSSAR 2017. Vienna, Austria. [[Bib](bibs/PD17.bib), [PDF](Papers/PD17.pdf)]
 
