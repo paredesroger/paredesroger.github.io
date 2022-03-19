@@ -1,0 +1,13 @@
+@inproceedings{Paredes-Toro2014,
+abstract = {Lifeline systems are complex geographically distributed systems that are essential to the well-being of modern society and its response and recovery after natural disasters. For this reason, models of interdependent systems under a wide range of adverse events are emerging; nevertheless, it is not easy to assess the intensity of coupling across systems to make these models represent their actual behavior. Besides, this paper performs a systematic quantification of spatial interdependencies across multiple lifeline networks, including power, water, fixed telephone and internet systems, as representatives of modern smart infrastructures. The analysis expands a Kriging Aided Spatial Correlation Algorithm (KASCA) at the local scale that quantifies lifeline coupling strengths and provides a more explicit and reproducible formulation of the spatial approach. This is achieved by performing sensitivity analyses to best estimate the interdependence strengths across networks subjected to earthquakes across geographies that match predictions to field observations and local field features. The improved spatial analysis is applied for the first time to four systems in the context of the 2010 Mw 8.8 Chile Earthquake using utility restoration data sets and the results are compared with previous temporal and spatial analyses for subsets of the systems. Spatially varying coupling strengths resulting from this analysis are communicated via local correlation maps and synthesized into global correlation plots, which can point out interdependence directionality and length of coupling influence across lifeline systems. Addressing the spatial coupling behavior between networks is a crucial step towards modeling and robust quantification of the interdependencies between lifeline systems and associated facilities, while also supporting decision-making.},
+address = {Anchorage},
+author = {Paredes-Toro, Roger and Due{\~{n}}as-Osorio, Leonardo and Cimellaro, Gian Paolo},
+booktitle = {Proceedings of the 10th National Conference in Earthquake Engineering},
+doi = {10.4231/D3BK16Q49},
+file = {:Users/rogerparedes/Documents/Mendeley Desktop//Paredes-Toro, Due{\~{n}}as-Osorio, Cimellaro - 2014 - Uncovering the heterogeneity of spatial lifeline system interdependencies.pdf:pdf},
+mendeley-groups = {LDO,NIST/Papers/Methods,Website/Conference,Interdep Quantification},
+publisher = {Earthquake Engineering Research Institute},
+title = {{Uncovering the heterogeneity of spatial lifeline system interdependencies}},
+url = {http://www.scopus.com/inward/record.url?eid=2-s2.0-84929000726&partnerID=tZOtx3y1},
+year = {2014}
+}
