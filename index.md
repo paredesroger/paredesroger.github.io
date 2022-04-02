@@ -48,6 +48,13 @@ Talks
 
 * **Paredes, R.**, Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. INFORMS 2021. Quantum-based and Inspired Methods to Compute Network Reliability. [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
 
+Upcoming events
+---------------
+
+- April 20-23: SEI Structures Congress
+- April 27-29: Spring 2022 NIST CoE Semi-annual Meeting
+- Sep. 13–17: International Conference on Structural Safety & Reliability (ICOSSAR)
+
 Research profiles
 -----------------
 
