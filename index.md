@@ -52,7 +52,7 @@ Upcoming events
 ---------------
 
 - April 20-23: SEI Structures Congress
-- April 27-29: Spring 2022 NIST CoE Semi-annual Meeting
+- April 27-29: Spring 2022 NIST Community Resilience Center of Excelence Semi-annual Meeting
 - Sep. 13–17: International Conference on Structural Safety & Reliability (ICOSSAR)
 
 Research profiles
