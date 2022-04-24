@@ -4,3 +4,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+# Google Analytics
+google_analytics: G-15K5ZW25WJ
