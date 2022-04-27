@@ -15,15 +15,18 @@ Education
 * M.S. in Civil Engineering, [Polytechnic University of Turin](https://www.polito.it/?lang=en). 2012-2014.
 * B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012.
 
+Publications
+------------
+[Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 Journal papers
---------------
+***
 
 * **Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019). Principled network reliability approximation: A counting-based approach. Reliability Engineering & System Safety, 191, 106472. [[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [Bib](bibs/PMDV19.bib), [Code](https://github.com/meelgroup/RelNet)] 
 
 * **Paredes, R.**, Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018). Decomposition algorithms for system reliability estimation with applications to interdependent lifeline networks. Earthquake Engineering & Structural Dynamics, 47(13), 2581–2600. [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](bibs/PDH18.bib)]
 
 Conference papers
------------------
+***
 
 *  Birchfield, A. B., Patil, J., **Paredes, R.** & Duenas-Osorio, L. Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids. In Proceedings of the 2021 IEEE Power and Energy Conference at Illinois (PECI) 1–6 (IEEE, 2021). [[DOI](https://doi.org/10.1109/PECI51586.2021.9435202), [Bib](bibs/BPPD21.bib)]
 
@@ -38,7 +41,7 @@ Conference papers
 * **Paredes, R.**, Dueñas-Osorio, L., & Cimellaro, G. P. (2014). Uncovering the heterogeneity of spatial lifeline system interdependencies. Proceedings of the 10th National Conference in Earthquake Engineering. [[Bib](bibs/PDC14.bib), [PDF](Papers/PDC14.pdf)]
 
 Other publications
-------------------
+****
 
 * Sundar, B., **Paredes, R.**, Damanik, D. T., Dueñas-Osorio, L. & Hazzard, K. R. A. A quantum algorithm to count weighted ground states of classical spin Hamiltonians. [arXiv:1908.01745](https://arxiv.org/abs/1908.01745) (2019).
 
