@@ -10,7 +10,7 @@ Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) rese
 * Artificial Intelligence
 
 # Education #
-----------
+
 * Ph.D. Candidate in Civil and Environmental Engineering, [Rice University](https://www.rice.edu/). 2015-Present.
 * M.S. in Civil Engineering, [Polytechnic University of Turin](https://www.polito.it/?lang=en). 2012-2014.
 * B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012.
@@ -26,7 +26,6 @@ Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) rese
 * **Paredes, R.**, Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018). Decomposition algorithms for system reliability estimation with applications to interdependent lifeline networks. Earthquake Engineering & Structural Dynamics, 47(13), 2581–2600. [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](bibs/PDH18.bib)]
 
 ## Conference papers ##
-
 
 *  Birchfield, A. B., Patil, J., **Paredes, R.** & Duenas-Osorio, L. Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids. In Proceedings of the 2021 IEEE Power and Energy Conference at Illinois (PECI) 1–6 (IEEE, 2021). [[DOI](https://doi.org/10.1109/PECI51586.2021.9435202), [Bib](bibs/BPPD21.bib)]
 
@@ -45,26 +44,23 @@ Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) rese
 * Sundar, B., **Paredes, R.**, Damanik, D. T., Dueñas-Osorio, L. & Hazzard, K. R. A. A quantum algorithm to count weighted ground states of classical spin Hamiltonians. [arXiv:1908.01745](https://arxiv.org/abs/1908.01745) (2019).
 
 
-Talks
------
+# Talks #
 
 * **Paredes, R.**, Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. INFORMS 2021. Quantum-based and Inspired Methods to Compute Network Reliability. [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
 
-Upcoming events
----------------
+# Upcoming events #
 
 - April 27-29: Spring 2022 NIST Community Resilience Center of Excelence Semi-annual Meeting
 - Sep. 13–17: International Conference on Structural Safety & Reliability (ICOSSAR)
 
-Research profiles
------------------
+# Research profiles #
 
 * [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 * [ArXiv](http://arxiv.org/a/paredes_r_1)
 * [ResearchGate](https://www.researchgate.net/profile/Roger_Paredes2)
 
-Elsewhere
----------
+# Elsewhere #
+
 * [LinkedIn](https://www.linkedin.com/in/paredesroger/)
 * [Twitter](https://twitter.com/paredesrogerl)
 * [GitHub](https://github.com/paredesroger)
