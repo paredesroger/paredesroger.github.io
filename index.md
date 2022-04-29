@@ -46,6 +46,7 @@ Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) rese
 
 # Talks #
 
+* **Paredes, R.**, Duenas-Osorio, L. Verified Uncertainty Quantification for Infrastructure Safety. [[Slides](https://docs.google.com/presentation/d/1_w_4LTRxr5vmjqzSnP1HVO8bFCCbA7cj/edit?usp=sharing&ouid=101224443141745959852&rtpof=true&sd=true)]
 * **Paredes, R.**, Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. INFORMS 2021. Quantum-based and Inspired Methods to Compute Network Reliability. [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
 
 # Upcoming events #
