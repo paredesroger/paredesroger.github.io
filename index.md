@@ -63,7 +63,7 @@ Proceedings of the 10th National Conference in Earthquake Engineering (10NCEE)
 
 ## Other publications ##
 
-* **A quantum algorithm to count weighted ground states of classical spin Hamiltonians**
+* **A quantum algorithm to count weighted ground states of classical spin Hamiltonians**  
 Sundar, B., **Paredes, R.**, Damanik, D. T., Dueñas-Osorio, L. & Hazzard, K. R. A. (2019)  
 [[arXiv](https://arxiv.org/abs/1908.01745)]
 
