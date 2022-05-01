@@ -2,7 +2,7 @@
 
 I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at Rice University.
 
-Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group and my research interests include:
+I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) group and my research interests include:
 
 * Structural and Infrastructure Reliability, Risk, and Resilience
 * Earthquake Engineering and Natural Hazards
