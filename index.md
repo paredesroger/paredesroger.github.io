@@ -16,7 +16,7 @@ Currently, I am part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) rese
 * B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012.
 
 # Publications #
-In [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 ## Journal papers ##
 
 * **Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019). Principled network reliability approximation: A counting-based approach. Reliability Engineering & System Safety, 191, 106472. [[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [Bib](bibs/PMDV19.bib), [Code](https://github.com/meelgroup/RelNet)] 
