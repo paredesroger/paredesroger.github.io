@@ -1,6 +1,6 @@
 <img src="images/Latest.jpg" width="250">
 
-I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at Rice University. Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) reasearch group.
+I am a Ph.D. candidate in the Dept. of Civil and Environmental Engineering at Rice University. Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) reasearch group.
 
 My research interests include:
 
