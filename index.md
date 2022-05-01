@@ -1,10 +1,10 @@
 <img src="images/Latest.jpg" width="250">
 
-I am a Ph.D. candidate in the Dept. of Civil and Environmental Engineering at Rice University. Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) reasearch group.
+I am a Ph.D. candidate in the Dept. of Civil and Environmental Engineering at Rice University. Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group.
 
 My research interests include:
 
-* Structural and Infrastructure Reliability, Risk, and Resilience
+* Structural Infrastructure Reliability, Risk, and Resilience
 * Earthquake Engineering and Natural Hazards
 * Uncertainty Quantification
 * Artificial Intelligence
