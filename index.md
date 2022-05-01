@@ -17,9 +17,9 @@ My research interests include:
 * B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012.
 --->
 
-# Publications #
+## Publications ##
 [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
-## Journal papers ##
+### Journal papers ###
 
 * **Principled network reliability approximation: A counting-based approach**  
 Paredes, R., Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
@@ -31,7 +31,7 @@ Paredes, R., Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018)
 Earthquake Engineering & Structural Dynamics (EESD)  
 [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](bibs/PDH18.bib)]
 
-## Conference papers ##
+### Conference papers ###
 
 *  **Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids**  
 Birchfield, A. B., Patil, J., Paredes, R. & Duenas-Osorio, L. (2021)  
@@ -63,14 +63,14 @@ Paredes, R., Dueñas-Osorio, L., & Cimellaro, G. P. (2014)
 Proceedings of the 10th National Conference in Earthquake Engineering (10NCEE)  
 [[Bib](bibs/PDC14.bib), [PDF](Papers/PDC14.pdf)]
 
-## Other publications ##
+### Other publications ###
 
 * **A quantum algorithm to count weighted ground states of classical spin Hamiltonians**  
 Sundar, B., Paredes, R., Damanik, D. T., Dueñas-Osorio, L. & Hazzard, K. R. A. (2019)  
 [[arXiv](https://arxiv.org/abs/1908.01745)]
 
 
-# Talks #
+## Talks ##
 
 * **Verified Uncertainty Quantification for Infrastructure Safety**  
 Paredes, R., Duenas-Osorio, L. (2022)  
@@ -82,17 +82,17 @@ Paredes, R., Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. (2021)
 2021 INFORMS Annual Meeting  
 [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
 
-# Upcoming events #
+## Upcoming events ##
 
 - Sep. 13–17: International Conference on Structural Safety & Reliability (ICOSSAR)
 
-# Research profiles #
+## Research profiles ##
 
 * [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 * [ArXiv](http://arxiv.org/a/paredes_r_1)
 * [ResearchGate](https://www.researchgate.net/profile/Roger_Paredes2)
 
-# Elsewhere #
+## Elsewhere ##
 
 * [LinkedIn](https://www.linkedin.com/in/paredesroger/)
 * [Twitter](https://twitter.com/paredesrogerl)
