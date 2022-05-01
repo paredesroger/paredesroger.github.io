@@ -20,7 +20,7 @@ My research interests include:
 ## Journal papers ##
 
 * **Principled network reliability approximation: A counting-based approach**  
-**Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019).  
+**Paredes, R.**, Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
 Reliability Engineering & System Safety (RESS)  
 [[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [Bib](bibs/PMDV19.bib), [Code](https://github.com/meelgroup/RelNet)] 
 
