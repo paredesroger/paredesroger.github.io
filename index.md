@@ -19,7 +19,7 @@ My research interests include:
 
 ## Publications ##
 [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
-### Journal papers ###
+### Journals ###
 
 * **Principled network reliability approximation: A counting-based approach**  
 Paredes, R., Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
@@ -31,7 +31,7 @@ Paredes, R., Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018)
 Earthquake Engineering & Structural Dynamics (EESD)  
 [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](bibs/PDH18.bib)]
 
-### Conference papers ###
+### Conferences ###
 
 *  **Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids**  
 Birchfield, A. B., Patil, J., Paredes, R. & Duenas-Osorio, L. (2021)  
