@@ -1,3 +1,8 @@
+---
+title: Roger Paredes
+author_profile: true
+---
+
 <div class="container">
 <div class="row">
 <!--Sidebar code comes here-->
