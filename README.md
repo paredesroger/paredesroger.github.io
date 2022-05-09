@@ -1,3 +1,16 @@
+<div class="row">
+
+
+<!--Sidebar code comes here-->
+<div id="sidebar" class="col-md-3 col-md-push-8">
+<a href="index.html"><img src="images/cropped.jpg" width="200" alt="Image" /></a>
+<div class="list-group" style="width:200px">
+<a href="index.html" class="list-group-item">Home</a>
+<a href="cv.pdf" class="list-group-item">CV</a>
+<a href="contact.html" class="list-group-item">Contact</a>
+</div>
+</div>
+
 <img src="images/cropped.jpg" width="200">
 
 I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at Rice University.
