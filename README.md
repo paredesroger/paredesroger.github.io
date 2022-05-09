@@ -1,6 +1,5 @@
+<div class="container">
 <div class="row">
-
-
 <!--Sidebar code comes here-->
 <div id="sidebar" class="col-md-3 col-md-push-8">
 <a href="index.html"><img src="images/cropped.jpg" width="200" alt="Image" /></a>
