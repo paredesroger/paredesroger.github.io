@@ -15,9 +15,13 @@ My research interests include:
 * M.S. in Civil Engineering, [Polytechnic University of Turin](https://www.polito.it/?lang=en). 2012-2014.
 * B.S. in Civil Engineering, [Central University of Venezuela (UCV)](http://www.ucv.ve/). 2007-2012.
 
+## Elsewhere ##
 
-## Find Me ##
-
-[Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Roger_Paredes2)
+[GoogleScholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Roger_Paredes2)
 [LinkedIn](https://www.linkedin.com/in/paredesroger/) [Twitter](https://twitter.com/paredesrogerl)
 
+
+## See More ##
+
+* [Publications](Papers/)
+* [Talks](Talks/)
