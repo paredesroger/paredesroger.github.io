@@ -1,8 +1,9 @@
 
 ---
 layout: post
-title: publications
 ---
+
+## Publications ##
 
 ### Journals ###
 
