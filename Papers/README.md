@@ -1,5 +1,6 @@
-## Publications ##
 
+## Publications ##
+[Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 ### Journals ###
 
 * **Principled network reliability approximation: A counting-based approach**  
@@ -18,7 +19,7 @@ Earthquake Engineering & Structural Dynamics (EESD)
 *  **Path-Dependent Reliability and Resiliency of Critical Infrastructure via Particle Integration Methods**  
 Paredes, R., Talebiyan, H. & Duenas-Osorio, L. (2021-2022)  
 The 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-2022),  
-[[Bib](bibs/PTD2022.bib), [PDF](Papers/PTD2022.pdf)]
+[[URL](https://hdl.handle.net/1911/112396), [Bib](bibs/PTD2022.bib), [PDF](Papers/PTD2022.pdf)]
 
 *  **Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids**  
 Birchfield, A. B., Patil, J., Paredes, R. & Duenas-Osorio, L. (2021)  
