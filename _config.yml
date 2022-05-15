@@ -1,6 +1,7 @@
-title: Roger Paredes
+
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
