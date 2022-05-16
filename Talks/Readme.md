@@ -1,3 +1,8 @@
+---
+layout: page
+title: Talks
+---
+
 ## Talks ##
 
 * **Verified Uncertainty Quantification for Infrastructure Safety**  
