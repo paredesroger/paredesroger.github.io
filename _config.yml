@@ -10,5 +10,11 @@ relative_links:
 
 remote_theme: jekyll/minima
 
+minima:
+  social_links:
+    twitter: paredesrogerl
+    github: paredesroger
+    linkedin: paredesroger
+
 # Google Analytics
 google_analytics: UA-226927214-1
