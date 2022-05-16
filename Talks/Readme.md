@@ -3,8 +3,6 @@ layout: page
 title: Talks
 ---
 
-## Talks ##
-
 * **Verified Uncertainty Quantification for Infrastructure Safety**  
 Paredes, R., Duenas-Osorio, L. (2022)  
 Spring 2022 NIST Community Resilience Center of Excelence Semi-annual Meeting  
