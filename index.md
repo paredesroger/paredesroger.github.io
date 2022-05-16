@@ -25,8 +25,3 @@ My research interests include:
 * [ResearchGate](https://www.researchgate.net/profile/Roger_Paredes2)
 * [LinkedIn](https://www.linkedin.com/in/paredesroger/)
 * [Twitter](https://twitter.com/paredesrogerl)
-
-## See More ##
-
-* [Publications](Papers/)
-* [Talks](Talks/)
