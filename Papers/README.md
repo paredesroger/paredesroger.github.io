@@ -19,7 +19,7 @@ Earthquake Engineering & Structural Dynamics (EESD)
 *  **Path-Dependent Reliability and Resiliency of Critical Infrastructure via Particle Integration Methods**  
 Paredes, R., Talebiyan, H. & Duenas-Osorio, L. (2021-2022)  
 The 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-2022),  
-[[URL](https://hdl.handle.net/1911/112396), [Bib](../bibs/PTD2022.bib), [PDF](Papers/PTD2022.pdf)]
+[[URL](https://hdl.handle.net/1911/112396), [Bib](../bibs/PTD2022.bib), [PDF](PTD2022.pdf)]
 
 *  **Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids**  
 Birchfield, A. B., Patil, J., Paredes, R. & Duenas-Osorio, L. (2021)  
@@ -39,17 +39,17 @@ In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-17)
 * **Risk Assessment of Interdependent Lifeline Systems (RAILS) and Systemic Importance Measures Using a Non-Simulation Method**  
 Paredes, R., & Duenas-Osorio, L. (2017)  
 In Proceedings of the 12th International Conference on Structural Safety and Reliability (ICOSSAR-2017)  
-[[Bib](../bibs/PD17.bib), [PDF](Papers/PD17.pdf)]
+[[Bib](../bibs/PD17.bib), [PDF](PD17.pdf)]
 
 * **A Time-Dependent Seismic Resilience Analysis Approach for Networked Lifelines**  
 Paredes, R., & Dueñas-Osorio, L. (2015)  
 In Proceedings of the 12th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP12)  
-[[DOI](https://doi.org/10.14288/1.0076219), [Bib](../bibs/PD15.bib), [PDF](Papers/PD15.pdf)]
+[[DOI](https://doi.org/10.14288/1.0076219), [Bib](../bibs/PD15.bib), [PDF](PD15.pdf)]
 
 * **Uncovering the heterogeneity of spatial lifeline system interdependencies**  
 Paredes, R., Dueñas-Osorio, L., & Cimellaro, G. P. (2014)  
 Proceedings of the 10th National Conference in Earthquake Engineering (10NCEE)  
-[[Bib](../bibs/PDC14.bib), [PDF](Papers/PDC14.pdf)]
+[[Bib](../bibs/PDC14.bib), [PDF](PDC14.pdf)]
 
 ### Other publications ###
 
