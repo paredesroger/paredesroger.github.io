@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
+
 ### Journals ###
 
 * **Principled network reliability approximation: A counting-based approach**  
