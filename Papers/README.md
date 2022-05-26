@@ -3,10 +3,8 @@ layout: page
 title: Publications
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
-
+See full list at [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 ### Journals ###
-
 * **Principled network reliability approximation: A counting-based approach**  
 Paredes, R., Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
 Reliability Engineering & System Safety (RESS)  
@@ -16,9 +14,7 @@ Reliability Engineering & System Safety (RESS)
 Paredes, R., Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018)  
 Earthquake Engineering & Structural Dynamics (EESD)  
 [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](../bibs/PDH18.bib)]
-
 ### Conferences ###
-
 *  **Path-Dependent Reliability and Resiliency of Critical Infrastructure via Particle Integration Methods**  
 Paredes, R., Talebiyan, H. & Duenas-Osorio, L. (2021-2022)  
 The 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-2022),  
