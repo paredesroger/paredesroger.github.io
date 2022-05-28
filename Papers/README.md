@@ -8,12 +8,12 @@ See full list at [Google Scholar](https://scholar.google.com/citations?user=mm0p
 * **Principled network reliability approximation: A counting-based approach**  
 Paredes, R., Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
 Reliability Engineering & System Safety (RESS)  
-[[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [Bib](../bibs/PMDV19.bib), [Code](https://github.com/meelgroup/RelNet)] 
+[[DOI](https://doi.org/10.1016/j.ress.2019.04.025), [Bib](../bibs/PMDV19.bib), [Code](https://github.com/meelgroup/RelNet), [PDF](PDMV19.pdf)] 
 
 * **Decomposition algorithms for system reliability estimation with applications to interdependent lifeline networks**  
 Paredes, R., Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018)  
 Earthquake Engineering & Structural Dynamics (EESD)  
-[[DOI](https://doi.org/10.1002/eqe.3071), [Bib](../bibs/PDH18.bib)]
+[[DOI](https://doi.org/10.1002/eqe.3071), [Bib](../bibs/PDH18.bib), [PDF](PDH18.pdf)]
 ### Conferences ###
 *  **Path-Dependent Reliability and Resiliency of Critical Infrastructure via Particle Integration Methods**  
 Paredes, R., Talebiyan, H. & Duenas-Osorio, L. (2021-2022)  
