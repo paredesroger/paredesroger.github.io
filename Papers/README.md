@@ -23,7 +23,7 @@ The 13th International Conference on Structural Safety and Reliability (ICOSSAR 
 *  **Preliminary Analysis of Network Fragility and Resilience in Large Electric Grids**  
 Birchfield, A. B., Patil, J., Paredes, R. & Duenas-Osorio, L. (2021)  
 In Proceedings of the 2021 IEEE Power and Energy Conference at Illinois (PECI)  
-[[DOI](https://doi.org/10.1109/PECI51586.2021.9435202), [Bib](../bibs/BPPD21.bib)]
+[[DOI](https://doi.org/10.1109/PECI51586.2021.9435202), [Bib](../bibs/BPPD21.bib), [PDF](BPPD21.pdf)]
 
 * **A Weighted Model Counting Approach for Critical Infrastructure Reliability**  
 Paredes, R., Dueñas-osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
