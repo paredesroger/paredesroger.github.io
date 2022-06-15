@@ -14,6 +14,7 @@ Reliability Engineering & System Safety (RESS)
 Paredes, R., Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018)  
 Earthquake Engineering & Structural Dynamics (EESD)  
 [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](../bibs/PDH18.bib), [PDF](PDH18.pdf)]
+
 ### Conferences ### 
 *  **Path-Dependent Reliability and Resiliency of Critical Infrastructure via Particle Integration Methods**  
 Paredes, R., Talebiyan, H. & Duenas-Osorio, L. (2021-2022)  
