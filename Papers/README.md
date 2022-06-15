@@ -4,7 +4,7 @@ title: Publications
 ---
 
 See full list at [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
-### Journals ###
+### Journals ### 
 * **Principled network reliability approximation: A counting-based approach**  
 Paredes, R., Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
 Reliability Engineering & System Safety (RESS)  
@@ -14,7 +14,7 @@ Reliability Engineering & System Safety (RESS)
 Paredes, R., Dueñas-Osorio, L., & Hernandez-Fajardo, I. (2018)  
 Earthquake Engineering & Structural Dynamics (EESD)  
 [[DOI](https://doi.org/10.1002/eqe.3071), [Bib](../bibs/PDH18.bib), [PDF](PDH18.pdf)]
-### Conferences ###
+### Conferences ### 
 *  **Path-Dependent Reliability and Resiliency of Critical Infrastructure via Particle Integration Methods**  
 Paredes, R., Talebiyan, H. & Duenas-Osorio, L. (2021-2022)  
 The 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-2022),  
@@ -50,8 +50,7 @@ Paredes, R., Dueñas-Osorio, L., & Cimellaro, G. P. (2014)
 Proceedings of the 10th National Conference in Earthquake Engineering (10NCEE)  
 [[Bib](../bibs/PDC14.bib), [PDF](PDC14.pdf)]
 
-### Other publications ###
-
+### Other publications ### 
 * **A quantum algorithm to count weighted ground states of classical spin Hamiltonians**  
 Sundar, B., Paredes, R., Damanik, D. T., Dueñas-Osorio, L. & Hazzard, K. R. A. (2019)  
 [[arXiv](https://arxiv.org/abs/1908.01745)]
