@@ -2,7 +2,7 @@
 layout: home 
 ---
 
-<img src="images/Latest.jpg" width="250">
+<img src="images/Latest.jpg" width="220">
 
 I'm a PhD Candidate in the Civil and Environmental Engineering Dept. at [Rice University](https://www.rice.edu/).
 <!--Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group.-->
