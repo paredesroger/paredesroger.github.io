@@ -4,8 +4,11 @@
 
 <ul class="social-media-list">
   {%- for glb in social.gitlab -%}{%- if glb.username and glb.instance -%}<li><a rel="me" href="https://{{ glb.instance | cgi_escape | escape}}/{{glb.username}}" target="_blank" title="{{ glb.username | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#gitlab' | relative_url }}"></use></svg></a></li>{%- endif -%}{%- endfor -%}
-    {%- if social.scholar_userid -%}
+  {%- if social.scholar_userid -%}
            <li><a rel="me" href="https://scholar.google.com/citations?user={{ social.scholar_userid }}" title="Google Scholar"><img src="/assets/google_scholar2.png" height=27></a></li>
+  {% endif %}
+  {%- if social.research_gate_userid -%}
+           <li><a rel="me" href="https://www.researchgate.net/profile/{{ social.scholar_userid }}" title="Research Gate"><img src="/assets/research_gate.png" height=27></a></li>
   {% endif %}
   {%- if social.twitter -%}
     <li><a rel="me" href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}" target="_blank" title="{{ social.twitter | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>
