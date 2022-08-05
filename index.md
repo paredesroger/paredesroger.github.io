@@ -12,7 +12,7 @@ My research interests include:
 * Reliability, Risk, and Resilience
 * Earthquake Engineering and Natural Hazards
 * Uncertainty Quantification
-* Artificial Intelligence
+* Machine Learning / Artificial Intelligence
 
 <!--
 ## Education ##
