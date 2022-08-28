@@ -4,15 +4,15 @@ layout: home
 
 <img src="images/Latest.jpg" width="220">
 
-I'm a PhD Candidate in the Civil and Environmental Engineering Dept. at [Rice University](https://www.rice.edu/).
+I'm a PhD Candidate at [Rice University](https://www.rice.edu/) in the Department of Civil and Environmental Engineering.
 <!--Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group.-->
 
 My research interests include:
 
-* Reliability, Risk, and Resilience
-* Earthquake Engineering and Natural Hazards
-* Uncertainty Quantification
-* Machine Learning / Artificial Intelligence
+* Reliability, risk, and resilience of structures and complex systems
+* Earthquake engineering and natural Hazards
+* Probabilistic inference and uncertainty quantification
+* Machine learning / artificial intelligence
 
 <!--
 ## Education ##
