@@ -10,7 +10,7 @@ I'm a PhD Candidate at [Rice University](https://www.rice.edu/) in the Departmen
 My research interests include:
 
 * Reliability, risk, and resilience of structures and complex systems
-* Earthquake engineering and natural Hazards
+* Earthquake engineering and natural hazards
 * Probabilistic inference and uncertainty quantification
 * Applied machine learning and artificial intelligence
 
