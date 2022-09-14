@@ -5,6 +5,8 @@ title: Contact
 
 Email: roger DOT paredes AT rice DOT edu
 
+[Resume](../assets/resume.pdf)
+
 [LinkedIn](https://www.linkedin.com/in/paredesroger/)
 
 [Twitter](https://twitter.com/paredesrogerl)
