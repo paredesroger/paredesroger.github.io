@@ -3,6 +3,11 @@ layout: page
 title: Talks
 ---
 
+* **Path-dependnet Reliability and Resiliency of Critical Infrastructures**  
+Paredes, R., Talebiyan, Hesam., Duenas-Osorio, L. (2022)  
+13th International Conference on Structural Safety & Reliability (ICOSSAR 2021-2022)
+[[Slides](https://docs.google.com/presentation/d/1oOIU9Lbfm15bo2SZtg-G8WXpoDZ_bcY-o5gUT3Ocrbs/edit?usp=sharing)]
+
 * **Verified Uncertainty Quantification for Infrastructure Safety**  
 Paredes, R., Duenas-Osorio, L. (2022)  
 Spring 2022 NIST Community Resilience Center of Excelence Semi-annual Meeting  
