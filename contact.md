@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Resume/Contact
 ---
 
 Email: roger DOT paredes AT rice DOT edu
