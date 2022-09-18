@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Conference Paper at ICOSSAR 2022-2022"
+title: "New Conference Paper at ICOSSAR 2021-2022"
 categories: paper
 ---
 
