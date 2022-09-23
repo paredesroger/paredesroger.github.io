@@ -1,0 +1,10 @@
+# redirect.html
+---
+layout: page
+---
+{{ content }}
+<script>
+  window.onload = function() {
+    window.location.replace("{{ page.redirect }}");
+  }
+</script>
