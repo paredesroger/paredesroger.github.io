@@ -5,4 +5,3 @@ permalink: /resume/
 redirect: ../assets/resume.pdf
 ---
 
-### Redirecting to Twitch...
