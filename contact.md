@@ -3,9 +3,9 @@ layout: page
 title: Resume/Contact
 ---
 
-Email: roger DOT paredes AT rice DOT edu
+## Let's connect
 
-[Resume](../assets/resume.pdf)
+Email: roger DOT paredes AT rice DOT edu
 
 [LinkedIn](https://www.linkedin.com/in/paredesroger/)
 
@@ -16,3 +16,6 @@ Email: roger DOT paredes AT rice DOT edu
 [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 
 
+## Resume
+
+[Resume](../assets/resume.pdf)
