@@ -2,7 +2,11 @@
 layout: home 
 ---
 
-<img src="images/Latest.jpg" width="220">
+
+<center>
+  <p><img src="images/Latest.jpg" width="220"></p>
+</center>
+
 
 I'm a research associate at [Rice University](https://www.rice.edu/) in the Department of Civil and Environmental Engineering.
 <!--Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group.-->
