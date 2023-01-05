@@ -19,9 +19,7 @@ minima:
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/paredesrogerl" }
     - { platform: github, user_url: "https://github.com/paredesroger/" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/yshmarov/" }
-    scholar_userid: mm0pN8oAAAAJ
-    research_gate_userid: Roger_Paredes2
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/paredesroger/" }
 
 # Google Analytics
 google_analytics: UA-226927214-1
