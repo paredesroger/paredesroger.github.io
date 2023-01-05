@@ -52,6 +52,10 @@ Proceedings of the 10th National Conference in Earthquake Engineering (10NCEE)
 [[Bib](../bibs/PDC14.bib), [PDF](PDC14.pdf)]
 
 ### Other publications ### 
+* **Ising Model Partition Function Computation as a Weighted Counting Problem**  
+Nagy, S.A., Paredes, R., Dudek, J.M., Dueñas-Osorio, L. & Vardi, M.Y. (2022)  
+[[arXiv](https://arxiv.org/abs/2212.12812)]
+
 * **A quantum algorithm to count weighted ground states of classical spin Hamiltonians**  
 Sundar, B., Paredes, R., Damanik, D. T., Dueñas-Osorio, L. & Hazzard, K. R. A. (2019)  
 [[arXiv](https://arxiv.org/abs/1908.01745)]
