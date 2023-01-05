@@ -20,9 +20,6 @@ minima:
     - { platform: twitter, user_url: "https://twitter.com/paredesrogerl" }
     - { platform: github, user_url: "https://github.com/paredesroger/" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/yshmarov/" }
-    twitter: paredesrogerl
-    github: paredesroger
-    linkedin: paredesroger
     scholar_userid: mm0pN8oAAAAJ
     research_gate_userid: Roger_Paredes2
 
