@@ -17,7 +17,7 @@ remote_theme: jekyll/minima
 
 minima:
   social_links:
-    - { platform: scholar,  user_url: "https://scholar.google.com/citations?user=mm0pN8oAAAAJ"}
+    - { platform: google_scholar,  user_url: "https://scholar.google.com/citations?user=mm0pN8oAAAAJ"}
     - { platform: twitter, user_url: "https://twitter.com/paredesrogerl" }
     - { platform: github, user_url: "https://github.com/paredesroger/" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/paredesroger/" }
