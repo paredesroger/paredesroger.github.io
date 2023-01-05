@@ -17,3 +17,4 @@ Spring 2022 NIST Community Resilience Center of Excelence Semi-annual Meeting
 Paredes, R., Duenas-Osorio, L., Sundar, B., & Hazzard, K. R. A. (2021)  
 2021 INFORMS Annual Meeting  
 [[Recording](https://drive.google.com/file/d/1KvltvCtX6owHfERY6A_GzL9vgeXPZK7t/view?usp=sharing)]
+
