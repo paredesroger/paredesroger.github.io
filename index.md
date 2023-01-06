@@ -3,14 +3,14 @@ layout: home
 ---
 <img src="images/Latest.jpg" width="180">
 
-I'm a research associate at [Rice University](https://www.rice.edu/) in the Department of Civil and Environmental Engineering.
+I'm a Data Scientist at Discover and a Research Scientst affiliated to [Rice University](https://www.rice.edu/), School of Engineering.
 <!--Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group.-->
 
 My research interests include:
 
 * Probabilistic inference and uncertainty quantification
 * Applied machine learning and artificial intelligence
-* Reliability, risk, and resilience of structures and complex systems
+* Reliability, risk, and resilience of complex systems and structures
 * Earthquake engineering and natural hazards
 
 <!--
