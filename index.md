@@ -3,7 +3,7 @@ layout: home
 ---
 <img src="images/Latest.jpg" width="180">
 
-I'm a Data Scientist at Discover and a Research Scientst affiliated to [Rice University](https://www.rice.edu/), School of Engineering.
+I'm a Data Scientist at Discover and a Research Scientist affiliated to [Rice University](https://www.rice.edu/), School of Engineering.
 <!--Also, I'm part of the [SISRRA](https://duenas-osorio.rice.edu/sisrra) research group.-->
 
 My research interests include:
