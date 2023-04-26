@@ -5,7 +5,6 @@ title: Contact
 
 ## Let's connect
 
-Email: roger DOT paredes AT rice DOT edu
 
 [LinkedIn](https://www.linkedin.com/in/paredesroger/)
 
