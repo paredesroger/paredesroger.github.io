@@ -5,9 +5,9 @@ title: Publications
 
 See full list at [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 ### Journals ### 
-* **Ising model partition-function computation as a weighted counting problem** (Accepted)
-Shaan Nagy, *Roger Paredes*, Jeffrey M. Dudek, Leonardo Dueñas-Osorio, and Moshe Y. Vardi
-Physical Review E
+* **Ising model partition-function computation as a weighted counting problem** (Accepted)  
+Shaan Nagy, *Roger Paredes*, Jeffrey M. Dudek, Leonardo Dueñas-Osorio, and Moshe Y. Vardi  
+Physical Review E  
 [[URL](https://journals.aps.org/pre/accepted/f9071R37Ne01552500dc62b5b88d8a78fe0311194)]
 
 * **Principled network reliability approximation: A counting-based approach**  
