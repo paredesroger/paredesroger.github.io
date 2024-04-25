@@ -6,9 +6,14 @@ title: Publications
 See full list at [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 ### Journals ### 
 * **Ising model partition-function computation as a weighted counting problem** (Accepted)  
-Shaan Nagy, *Roger Paredes*, Jeffrey M. Dudek, Leonardo Dueñas-Osorio, and Moshe Y. Vardi  
+Shaan Nagy, *Roger Paredes*, Jeffrey M. Dudek, Leonardo Dueñas-Osorio, and Moshe Y. Vardi  (2024)
 Physical Review E  
 [[URL](https://journals.aps.org/pre/accepted/f9071R37Ne01552500dc62b5b88d8a78fe0311194)]
+
+* **Development of methods of structural reliability**
+Bruce Ellingwood, Marc Maes, F Michael Bartlett, Andre T Beck, Colin Caprani, Armen Der Kiureghian, Leonardo Dueñas-Osorio, Neryvaldo Galvão, Robert Gilbert, Jie Li, Jose Matos, Yasuhiro Mori, Iason Papaioannou, *Roger Parades*, Daniel Straub, Bruno Sudret  (2024)
+Structural Safety  
+[[DOI](https://doi.org/10.1016/j.strusafe.2024.102474)]
 
 * **Principled network reliability approximation: A counting-based approach**  
 Paredes, R., Dueñas-Osorio, L., Meel, K. S., & Vardi, M. Y. (2019)  
