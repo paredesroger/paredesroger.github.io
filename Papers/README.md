@@ -10,7 +10,7 @@ Shaan Nagy, *Roger Paredes*, Jeffrey M. Dudek, Leonardo Dueñas-Osorio, and Mosh
 Physical Review E  
 [[URL](https://journals.aps.org/pre/accepted/f9071R37Ne01552500dc62b5b88d8a78fe0311194)]
 
-* **Development of methods of structural reliability**
+* **Development of methods of structural reliability**  
 Bruce Ellingwood, Marc Maes, F Michael Bartlett, Andre T Beck, Colin Caprani, Armen Der Kiureghian, Leonardo Dueñas-Osorio, Neryvaldo Galvão, Robert Gilbert, Jie Li, Jose Matos, Yasuhiro Mori, Iason Papaioannou, *Roger Parades*, Daniel Straub, Bruno Sudret  (2024)
 Structural Safety  
 [[DOI](https://doi.org/10.1016/j.strusafe.2024.102474)]
