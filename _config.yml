@@ -22,6 +22,9 @@ minima:
     - { platform: twitter, user_url: "https://x.com/paredesrogerl" }
     - { platform: github, user_url: "https://github.com/paredesroger/" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/paredesroger/" }
+    - platform: x  # same as SVG filename.
+      user_url: "https://x.com/john.doe"  # URL of profile page.
+      title:  My profile at X
     
 
 # Google Analytics
