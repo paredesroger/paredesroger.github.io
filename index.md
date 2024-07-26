@@ -8,10 +8,10 @@ I'm a Data Scientist at Discover and a Research Scientist affiliated to [Rice Un
 
 My research interests include:
 
-* Probabilistic inference and uncertainty quantification
 * Applied machine learning and artificial intelligence
-* Reliability, risk, and resilience of complex systems and structures
-* Earthquake engineering and natural hazards
+* Causal inference and uncertainty quantification
+* Formal methods and high performance computing
+* Reliability, risk, and resilience of complex systems
 
 <!--
 ## Education ##
