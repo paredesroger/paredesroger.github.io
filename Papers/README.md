@@ -5,6 +5,11 @@ title: Publications
 
 See full list at [Google Scholar](https://scholar.google.com/citations?user=mm0pN8oAAAAJ&hl=en)
 ### Journals ### 
+* **Grover-QAOA for 3-SAT: quadratic speedup, fair-sampling, and parameter clustering**  
+Zewen Zhang, *Roger Paredes*, Bhuvanesh Sundar, David Quiroga, Anastasios Kyrillidis, Leonardo Duenas-Osorio, Guido Pagano, Kaden RA Hazzard  
+Quantum Science and Technology  
+[[DOI](https://doi.org/10.1088/2058-9565/ad895c)]
+
 * **Ising model partition-function computation as a weighted counting problem**  
 Shaan Nagy, *Roger Paredes*, Jeffrey M. Dudek, Leonardo Dueñas-Osorio, and Moshe Y. Vardi (2024)  
 Physical Review E  
