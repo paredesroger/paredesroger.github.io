@@ -13,7 +13,7 @@ relative_links:
   enabled: true
   collections: true
 
-remote_theme: jekyll/minima@1e8a445
+remote_theme: jekyll/minima@38a84a9
 
 minima:
   social_links:
